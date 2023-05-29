@@ -20,13 +20,13 @@ const chalk = require('chalk');
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-global.session = process.env.SESSION_ID || "PUT HERE"; //enter your session id here
+global.session = process.env.SESSION_ID || "queen~S1UzU1BrVTI=E"; //enter your session id here
 
-global.openaikey = process.env.OPEN_AI_KEY || "ENTER_API-KEY_HERE"; //Put Your Open AI Api key
+global.openaikey = process.env.OPEN_AI_KEY || "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"; //Put Your Open AI Api key
 
-global.ownername = process.env.OWNER_NAME || "DarkWinzo"; //Queen-AI Owner Name here
+global.ownername = process.env.OWNER_NAME || "Khalid-niccur"; //Queen-AI Owner Name here
 
-global.ownernumber = process.env.OWNER_NUMBER || "94775200935"; //Owner whatsapp number here
+global.ownernumber = process.env.OWNER_NUMBER || "254736958034"; //Owner whatsapp number here
 
 global.language = process.env.LANGUAGE || "EN"; //Enter bot working language EN = English / SI = Sinhala /ML = Malayalam /HI =Hindi /UR = Urdu
 
